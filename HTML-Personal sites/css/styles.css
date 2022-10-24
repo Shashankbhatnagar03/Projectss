@@ -1,0 +1,30 @@
+
+    body {
+      background-color: azure;
+    }
+    hr {
+     
+      border-style: none;
+      border-top-style: dotted;
+      border-color: grey;
+      border-width: 5px;
+      
+      width : 30%;
+    }  
+    h1{
+        color: #66BFBF;
+    }
+    h3{
+        color: #66BFBF;
+    }
+    /* .class name{
+      color ya anything
+    } */
+    .circular{
+      border-radius: 100%;
+    }
+    #heading{
+       color: red ;
+    }
+    
+   
